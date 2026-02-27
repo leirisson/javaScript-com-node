@@ -1,0 +1,16 @@
+{
+  "name": "1.var-let-const",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings --watch index.js"
+  },
+    "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
